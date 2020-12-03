@@ -15,8 +15,8 @@
     align-items: center;
 }
 
-.subtotal__gift {
-    margin-left: 5px;
+.subtotal__gift > input {
+    margin-right: 10px;
 }
 
 .subtotal > button {
